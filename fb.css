@@ -1,0 +1,93 @@
+*{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #1877f2;
+    font-size: 70px;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+.F1{
+    margin: 12% 50% 20% 15%;
+   
+}
+.F2{
+    font-size: 30px;
+    margin-top: 0%;
+    padding: 0%;
+}
+.F3{
+    position: absolute;
+    top: 17%;
+    right: 10%;
+    bottom: 20%;
+    left: 55%;
+    border: 1px solid rgb(255, 247, 247);
+    box-shadow: 0 4px 8px 0 rgba(85, 83, 83, 0.2), 0 6px 20px 0 rgba(127, 125, 125, 0.19);
+    border-radius: 6px;
+    width: 360px;
+    height: 360px;
+    box-shadow: rgb(133, 130, 130);
+   
+}
+.F4{
+    margin: 15px;
+    width: 90%;
+    height: 15%;
+    border-radius:6px;
+    border-color: rgba(147, 147, 147, 0.593);
+}
+.F5{
+    margin: 5px 0px 0px 15px;
+    width: 90%;
+    height: 15%;
+    border-radius:6px;
+    border-color: rgba(147, 147, 147, 0.593);
+}
+.F6{
+    background-color:#1877f2;
+    border-color: aliceblue;
+    margin: 15px;
+    width: 90%;
+    height: 13%;
+    border-radius:6px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.F7{
+    text-decoration: none;
+    padding-left: 90px;
+
+}
+
+.F8{
+    background-color:#00a400;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border-color: aliceblue;
+   margin-top: 2%;
+    margin-left: 17%;
+    width: 60%;
+    height: 15%;
+    border-radius:6px;
+}
+.F9{
+   
+    position: absolute;
+    top: 67%;
+    right: 10%;
+    bottom: 20%;
+    left: 57%;
+}
+.F10{
+    position: relative;
+    bottom: 14.5%;
+    float: right;
+    margin-right: 34%;
+    
+}
